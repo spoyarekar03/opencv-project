@@ -1,0 +1,4 @@
+matplotlib==3.7
+numpy==1.24
+opencv-python==3.4
+labelImg
